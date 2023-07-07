@@ -1,0 +1,15 @@
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\bin\Debug\net7.0\aula48.exe
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\bin\Debug\net7.0\aula48.deps.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\bin\Debug\net7.0\aula48.runtimeconfig.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\bin\Debug\net7.0\aula48.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\bin\Debug\net7.0\aula48.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.csproj.AssemblyReference.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.AssemblyInfoInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.AssemblyInfo.cs
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.csproj.CoreCompileInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\refint\aula48.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\aula48.genruntimeconfig.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 48\aula48\obj\Debug\net7.0\ref\aula48.dll

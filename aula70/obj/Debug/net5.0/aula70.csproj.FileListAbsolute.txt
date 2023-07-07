@@ -1,0 +1,16 @@
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\bin\Debug\net5.0\aula70.exe
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\bin\Debug\net5.0\aula70.deps.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\bin\Debug\net5.0\aula70.runtimeconfig.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\bin\Debug\net5.0\aula70.runtimeconfig.dev.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\bin\Debug\net5.0\aula70.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\bin\Debug\net5.0\aula70.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.csproj.AssemblyReference.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.AssemblyInfoInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.AssemblyInfo.cs
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.csproj.CoreCompileInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\refint\aula70.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\aula70.genruntimeconfig.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 70\aula70\obj\Debug\net5.0\ref\aula70.dll

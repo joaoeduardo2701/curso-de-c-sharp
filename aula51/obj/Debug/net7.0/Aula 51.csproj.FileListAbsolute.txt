@@ -1,0 +1,30 @@
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.csproj.AssemblyReference.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.AssemblyInfoInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.AssemblyInfo.cs
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.csproj.CoreCompileInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\bin\Debug\net7.0\Aula 51.exe
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\bin\Debug\net7.0\Aula 51.deps.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\bin\Debug\net7.0\Aula 51.runtimeconfig.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\bin\Debug\net7.0\Aula 51.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\bin\Debug\net7.0\Aula 51.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\refint\Aula 51.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\Aula 51.genruntimeconfig.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 51\Aula 51\obj\Debug\net7.0\ref\Aula 51.dll
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\bin\Debug\net7.0\Aula 51.exe
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\bin\Debug\net7.0\Aula 51.deps.json
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\bin\Debug\net7.0\Aula 51.runtimeconfig.json
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\bin\Debug\net7.0\Aula 51.dll
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\bin\Debug\net7.0\Aula 51.pdb
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.csproj.AssemblyReference.cache
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.AssemblyInfoInputs.cache
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.AssemblyInfo.cs
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.csproj.CoreCompileInputs.cache
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.dll
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\refint\Aula 51.dll
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.pdb
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\Aula 51.genruntimeconfig.cache
+C:\Users\duduc\OneDrive\Documentos\Curso de C#\Aulas\aula51\obj\Debug\net7.0\ref\Aula 51.dll

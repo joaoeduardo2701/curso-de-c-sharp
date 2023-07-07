@@ -1,0 +1,15 @@
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\bin\Debug\net7.0\aula47.exe
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\bin\Debug\net7.0\aula47.deps.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\bin\Debug\net7.0\aula47.runtimeconfig.json
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\bin\Debug\net7.0\aula47.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\bin\Debug\net7.0\aula47.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.csproj.AssemblyReference.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.AssemblyInfoInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.AssemblyInfo.cs
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.csproj.CoreCompileInputs.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\refint\aula47.dll
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.pdb
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\aula47.genruntimeconfig.cache
+C:\Users\duduc\source\repos\Aulas C#\Aula 47\aula47\obj\Debug\net7.0\ref\aula47.dll
