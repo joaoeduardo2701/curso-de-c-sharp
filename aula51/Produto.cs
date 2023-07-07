@@ -1,30 +1,43 @@
 ﻿using System.Globalization;
 
-namespace Course
+namespace Aula51
 {
     class Produto
     {
-        private string _nome;
-        public double Preco { get; private set; }
+        public string Nome;
+        public double Preco;
         public int Quantidade;
-    
+
         public Produto(string nome, double preco, int quantidade)
         {
-            _nome = nome;
+            Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
 
-        public string Nome
+        public double ValorTotalEmEstoque()
         {
-            get { return _nome; }
-            set 
-            {
-                if (value != null && value.Length > 1) 
-                {
-                    _nome = value;
-                }
-            }
+            return Preco * Quantidade;
+        }
+
+        public void AdicionarProdutos(int quantidade)
+        {
+            Quantidade += quantidade;
+        }
+
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
+        }
+
+        public override string ToString()
+        {
+            return Nome
+        + ", R$"
+        + Preco.ToString("F2", CultureInfo.InvariantCulture) + ", "
+        + Quantidade
+        + " unidades, Total: R$"
+        + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
