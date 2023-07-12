@@ -15,7 +15,6 @@ namespace aula56
 
             Console.WriteLine(p.Preco.ToString("F2", CultureInfo.InvariantCulture));
 
-            p.Quantidade = 5;
             Console.WriteLine(p.Quantidade);
         }
     }
