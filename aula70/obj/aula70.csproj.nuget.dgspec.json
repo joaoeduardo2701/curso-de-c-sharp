@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duduc\\source\\repos\\Aulas C#\\Aula 70\\aula70\\aula70.csproj": {}
+    "C:\\Users\\duduc\\OneDrive\\Documentos\\GitHub\\Curso de C#\\curso-de-c-sharp\\aula70\\aula70.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duduc\\source\\repos\\Aulas C#\\Aula 70\\aula70\\aula70.csproj": {
+    "C:\\Users\\duduc\\OneDrive\\Documentos\\GitHub\\Curso de C#\\curso-de-c-sharp\\aula70\\aula70.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duduc\\source\\repos\\Aulas C#\\Aula 70\\aula70\\aula70.csproj",
+        "projectUniqueName": "C:\\Users\\duduc\\OneDrive\\Documentos\\GitHub\\Curso de C#\\curso-de-c-sharp\\aula70\\aula70.csproj",
         "projectName": "aula70",
-        "projectPath": "C:\\Users\\duduc\\source\\repos\\Aulas C#\\Aula 70\\aula70\\aula70.csproj",
+        "projectPath": "C:\\Users\\duduc\\OneDrive\\Documentos\\GitHub\\Curso de C#\\curso-de-c-sharp\\aula70\\aula70.csproj",
         "packagesPath": "C:\\Users\\duduc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duduc\\source\\repos\\Aulas C#\\Aula 70\\aula70\\obj\\",
+        "outputPath": "C:\\Users\\duduc\\OneDrive\\Documentos\\GitHub\\Curso de C#\\curso-de-c-sharp\\aula70\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
