@@ -3,35 +3,27 @@ using System.Globalization;
 
 namespace aula69
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
             Console.Write("Digite um número: ");
-            int n = int.Parse(Console.ReadLine());
+            int n1 = int.Parse(Console.ReadLine());
 
-            double[] numeros = new double[n];
+            double[] vetor = new double[n1];
+            double somaAlturas = 0.0;
 
-            double soma = 0;
-
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < n1; i++)
             {
-                Console.Write($"Digite o {i + 1}º altura: ");
-                numeros[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-                if (i == 0)
-                {
-                    soma = numeros[i];
-                }
-                else
-                {
-                    soma += numeros[i];
-                }
+                Console.Write($"Digite a {i}ª altura: ", CultureInfo.InvariantCulture);
+                vetor[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                
+                somaAlturas += vetor[i];
+                
             }
 
-            double media = soma / n;
-
-            Console.WriteLine("Média: " + media.ToString("F2", CultureInfo.InvariantCulture));   
+            double media = somaAlturas / n1;
+            Console.WriteLine("Média: " + media);
         }
     }
 }
