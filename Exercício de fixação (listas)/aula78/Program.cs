@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace aula78
 {
@@ -23,7 +24,7 @@ namespace aula78
                 string nome = Console.ReadLine();
 
                 Console.Write("Salário: ");
-                double salario = double.Parse(Console.ReadLine());
+                double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 funcionarios.Add(new Funcionario(id, nome, salario));
             }
@@ -37,8 +38,26 @@ namespace aula78
             Console.Write("Digite o id do funcionário que deseja dar um aumento: ");
             int idAumento = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite a porcentagem de aumento: ");
-            double porcentagem = double.Parse(Console.ReadLine());
+            Funcionario f = funcionarios.Find(x => x.Id == idAumento);
+
+            if (f != null)
+            {
+                Console.Write("Digite a porcentagem de aumento: ");
+                double porcentagem = double.Parse(Console.ReadLine());
+                f.AumentarSalario(porcentagem);
+            }
+            else
+            {
+                Console.WriteLine("Esse id não existe");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Lista atualizadas de funcionário:");
+
+            foreach(var funcionario in funcionarios)
+            {
+                Console.WriteLine(funcionario);
+            }
 
         }
     }
