@@ -14,7 +14,7 @@ namespace aula79
 
             Console.WriteLine(matriz.GetLength(0)); // Mostra a quantidade de linhas da matriz
             Console.WriteLine(matriz.GetLength(1)); // Mostra a quantidade de colunas da matriz
-            Console.WriteLine(matriz.GetLength(2));
+
         }
     }
 }
