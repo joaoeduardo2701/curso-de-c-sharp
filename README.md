@@ -1,3 +1,3 @@
 # Curso de C#
 
-Esse repositório se trata de todo o conhecimento obtido no meu curso até o momento, futuramente contará com projetos maiores!
+Esse repositório contém todo o conhecimento obtido em meu curso de C# até o momento, futuramente contará com projetos maiores!
