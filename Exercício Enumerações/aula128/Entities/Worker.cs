@@ -1,6 +1,7 @@
 ﻿using aula128.Entities.Enums;
 using System.Collections.Generic;
 
+
 namespace aula128.Entities
 {
     internal class Worker
@@ -11,10 +12,39 @@ namespace aula128.Entities
         public Departments Departments { get; set; }
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
-        public Worker ()
+        public Worker()
         {
-                
+
+        }
+        public Worker(string name, WorkerLevel level, double baseSalary, Departments departments)
+        {
+            Name = name;
+            Level = level;
+            BaseSalary = baseSalary;
+            Departments = departments;
         }
 
+        public void AddContract(HourContract contract)
+        {
+            Contracts.Add(contract);
+        }
+        public void RemoveContract(HourContract contract)
+        {
+            Contracts.Remove(contract);
+        }
+        public double Income(int year, int month)
+        {
+            double sum = BaseSalary;
+
+            foreach (HourContract contract in Contracts)
+            {
+                if (contract.Date.Year == year && contract.Date.Month == month)
+                {
+                    sum += contract.TotalValue();
+                }
+            }
+
+            return sum;
+        }
     }
 }
