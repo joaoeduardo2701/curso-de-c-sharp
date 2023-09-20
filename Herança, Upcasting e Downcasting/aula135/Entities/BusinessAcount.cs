@@ -6,7 +6,7 @@
 
         public BusinessAcount() { }
 
-        public BusinessAcount(string holder, double balance, int number, double loanLimit) : base(number, holder, balance)
+        public BusinessAcount(int number, string holder, double balance, double loanLimit) : base(number, holder, balance)
         {
             LoanLimit = loanLimit;
         }
