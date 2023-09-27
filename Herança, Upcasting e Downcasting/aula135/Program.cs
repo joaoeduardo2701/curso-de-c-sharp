@@ -26,12 +26,25 @@ namespace aula135
 
             // DOWNCASTING
 
-            BusinessAcount acc4 = (BusinessAcount)acc2;
+            BusinessAcount acc4 = acc2 as BusinessAcount; // Outro jeito de fazer o downcasting
             acc4.Loan(100.0);
             
             if (acc3 is BusinessAcount)
             {
-                BusinessAcount acc5 = (BusinessAcount)acc3;
+                //BusinessAcount acc5 = (BusinessAcount)acc3;
+                BusinessAcount acc5 = acc3 as BusinessAcount;
+
+                acc5.Loan(200.0);
+                Console.WriteLine("Loan ");
+            }
+
+            if (acc3 is SavingsAccount)
+            {
+                //SavingsAccount acc5 = (SavingsAccount)acc3;
+                SavingsAccount acc5 = acc3 as SavingsAccount;
+
+                acc5.UpdateBalance();
+                Console.WriteLine("Update");
             }
         }
     }
